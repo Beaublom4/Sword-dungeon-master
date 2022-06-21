@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40b7263d54a34f94cbb65f59d4163139, type: 3}
+  m_Name: AspectOfDark
+  m_EditorClassIdentifier: 
+  id: 4
+  prefab: {fileID: 444466506143525402, guid: afae93db901e7ca4a8f82c5b4986e70d, type: 3}
+  slot: 0
+  cost: 75
+  damage: 20
+  critDamage: 40
+  critChance: 10
+  reinforceMagic: 0
+  bleeding: 0
+  bleedTime: 0
+  lifeStealPercentage: 10

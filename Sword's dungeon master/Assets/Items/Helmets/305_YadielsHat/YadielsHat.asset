@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36764cc0016fe224481f04cfdd4a91f6, type: 3}
+  m_Name: YadielsHat
+  m_EditorClassIdentifier: 
+  id: 305
+  prefab: {fileID: 7775953204035926658, guid: 29ce6400d15ce4443aea6c70df35df33, type: 3}
+  slot: 3
+  cost: 100
+  addHealth: 20
+  regeneration: 2
+  defence: 2
+  mana: 20

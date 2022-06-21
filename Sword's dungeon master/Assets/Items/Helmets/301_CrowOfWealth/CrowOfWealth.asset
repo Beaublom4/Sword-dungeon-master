@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36764cc0016fe224481f04cfdd4a91f6, type: 3}
+  m_Name: CrowOfWealth
+  m_EditorClassIdentifier: 
+  id: 301
+  prefab: {fileID: 1302123718220916533, guid: c9c35f9aa7226994f89735b37c6341fd, type: 3}
+  slot: 3
+  cost: 5
+  addHealth: 5
+  regeneration: 1
+  defence: 1
+  mana: 0

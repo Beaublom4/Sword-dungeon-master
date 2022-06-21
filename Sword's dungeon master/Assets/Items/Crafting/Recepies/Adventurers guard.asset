@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e698c182d5df5af4d8bf3bd1b30c850b, type: 3}
+  m_Name: Adventurers guard
+  m_EditorClassIdentifier: 
+  item: {fileID: 11400000, guid: 1b1b4b9ec8b96cf409a5ace6eccecc04, type: 2}
+  itemsNeeded:
+  - item: {fileID: 11400000, guid: f35ffa80c4c3f074fa7ea2f305976bd4, type: 2}
+    count: 5
+  - item: {fileID: 11400000, guid: df8c8928e006b4546ab29f8af034a732, type: 2}
+    count: 1
+  recipeName: Adventurers guard
+  info: Sturdy shiny guard

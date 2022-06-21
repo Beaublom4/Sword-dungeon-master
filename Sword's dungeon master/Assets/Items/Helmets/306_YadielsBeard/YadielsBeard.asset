@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36764cc0016fe224481f04cfdd4a91f6, type: 3}
+  m_Name: YadielsBeard
+  m_EditorClassIdentifier: 
+  id: 306
+  prefab: {fileID: 3633922374163809520, guid: a2d18e0839f554d43a2295377132ea3a, type: 3}
+  slot: 3
+  cost: 200
+  addHealth: 0
+  regeneration: 20
+  defence: 0
+  mana: 10

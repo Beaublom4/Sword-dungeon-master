@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e698c182d5df5af4d8bf3bd1b30c850b, type: 3}
+  m_Name: Aspect of dark
+  m_EditorClassIdentifier: 
+  item: {fileID: 11400000, guid: 3029bb43d9f98de40bf0c72dc25ff5ce, type: 2}
+  itemsNeeded:
+  - item: {fileID: 11400000, guid: 59c3dd976a8b1ab47b8e26e7d6e998c7, type: 2}
+    count: 5
+  - item: {fileID: 11400000, guid: 423ab610275b73542b3c90237db3ab7e, type: 2}
+    count: 1
+  - item: {fileID: 11400000, guid: 25807b287bea26b4cb357b8dd459f9a5, type: 2}
+    count: 1
+  recipeName: Aspect of dark
+  info: The darkness of this sword is the same level as my humor

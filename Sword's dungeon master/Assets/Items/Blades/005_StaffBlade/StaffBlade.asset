@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40b7263d54a34f94cbb65f59d4163139, type: 3}
+  m_Name: StaffBlade
+  m_EditorClassIdentifier: 
+  id: 5
+  prefab: {fileID: 5474355193340531693, guid: 9724a011b02481f42826097f02b28824, type: 3}
+  slot: 0
+  cost: 100
+  damage: 35
+  critDamage: 70
+  critChance: 5
+  reinforceMagic: 20
+  bleeding: 0
+  bleedTime: 0
+  lifeStealPercentage: 2
